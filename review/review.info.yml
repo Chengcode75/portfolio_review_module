@@ -1,0 +1,4 @@
+name: Review js module
+description: A simple module made for users to review my Drupal portfolio
+type: module
+core: 8.x
